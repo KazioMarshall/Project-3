@@ -10,11 +10,14 @@ namespace Project_3_library
     {
         public string StudentId { get; set; }
 
-        public string GetCellPhoneNumber()
+        public string GetCellPhoneNumber(string studentName, string studentNumber)
         {
-            // Your implementation to get the cell phone number
-            // For example, you can return a placeholder value
-            return "708-890-5772";
+            return $"{studentName}'s Cell Phone Number: {studentNumber}";
+        }
+
+        public string BroadcastMessage()
+        {
+            return "BroadCast Message: This is the student Cell phone number!";
         }
     }
 }

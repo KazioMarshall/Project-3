@@ -4,3 +4,9 @@ C:\Users\Km623\source\repos\Project_3_library\Project_3_library\obj\Debug\Projec
 C:\Users\Km623\source\repos\Project_3_library\Project_3_library\obj\Debug\Project_3_library.csproj.CoreCompileInputs.cache
 C:\Users\Km623\source\repos\Project_3_library\Project_3_library\obj\Debug\Project_3_library.dll
 C:\Users\Km623\source\repos\Project_3_library\Project_3_library\obj\Debug\Project_3_library.pdb
+C:\Users\Km623\source\repos\KazioMarshall\Project-3\Project_3_library\Project_3_library\bin\Debug\Project_3_library.dll
+C:\Users\Km623\source\repos\KazioMarshall\Project-3\Project_3_library\Project_3_library\bin\Debug\Project_3_library.pdb
+C:\Users\Km623\source\repos\KazioMarshall\Project-3\Project_3_library\Project_3_library\obj\Debug\Project_3_library.csproj.AssemblyReference.cache
+C:\Users\Km623\source\repos\KazioMarshall\Project-3\Project_3_library\Project_3_library\obj\Debug\Project_3_library.csproj.CoreCompileInputs.cache
+C:\Users\Km623\source\repos\KazioMarshall\Project-3\Project_3_library\Project_3_library\obj\Debug\Project_3_library.dll
+C:\Users\Km623\source\repos\KazioMarshall\Project-3\Project_3_library\Project_3_library\obj\Debug\Project_3_library.pdb
